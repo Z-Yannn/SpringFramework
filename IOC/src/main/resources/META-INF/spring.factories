@@ -1,0 +1,8 @@
+com.bocloud.spring.configuration.z_spi.bean.DemoDao=\
+  com.bocloud.spring.configuration.z_spi.bean.DemoMySQLDaoImpl,\
+  com.bocloud.spring.configuration.z_spi.bean.DemoOracleDaoImpl
+
+com.bocloud.spring.configuration.e_enablejdbc.config.EnableJdbc=\
+  com.bocloud.spring.configuration.e_enablejdbc.config.MySQLJdbcConfiguration,\
+  com.bocloud.spring.configuration.e_enablejdbc.config.OracleJdbcConfiguration,\
+  com.bocloud.spring.configuration.e_enablejdbc.config.H2JdbcConfiguration

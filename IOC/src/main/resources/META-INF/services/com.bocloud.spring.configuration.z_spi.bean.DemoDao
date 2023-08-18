@@ -1,0 +1,2 @@
+com.bocloud.spring.configuration.z_spi.bean.DemoMySQLDaoImpl
+com.bocloud.spring.configuration.z_spi.bean.DemoOracleDaoImpl
