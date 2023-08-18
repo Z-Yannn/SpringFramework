@@ -1,3 +1,4 @@
+![Spring-framework.png](Pictures%2FSpring-framework.png)
 # Spring-framework #
 ## servlet 与 springframework概述 ##
 1. 在Java开发中，WAR(Web Application Archive)包和JAR(Java Archive)包是两种常见的打包方式，它们在用途和结构上有所区别。
